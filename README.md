@@ -2,10 +2,6 @@
 
 e2e-test with native mob app
 
-```sh
-
-```
-
 ## Setup
 
 ### Install software and check out the project
@@ -17,10 +13,6 @@ e2e-test with native mob app
 - npm install
 
 ### How to run the android tests on windows
-
-```sh
-
-```
 
 We defined a default configuration (config/wdio.android.conf.js) for Android which will be executed when you run "npm run test:android".
 
@@ -43,7 +35,11 @@ Be sure that you have:
 - now you can interact with your apps through the appium inspector on your PC
 
 ### Commands to run
-- to run tests use command `npm run test:android`
+- to run tests use command
+```sh
+npm run test:android
+```
+
 
 ### Commands to generate Allure report
 - to generate Allure test result report use command `npm run allure:generate`
