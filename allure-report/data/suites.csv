@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8071","should make division by zero and check error message","","Thu Jan 02 20:20:25 CET 2025","passed","Thu Jan 02 20:20:33 CET 2025","","Samsung Calculator features E2E","",""
+"","10194","should multiply two by two and check result","","Thu Jan 02 20:20:15 CET 2025","passed","Thu Jan 02 20:20:25 CET 2025","","Samsung Calculator features E2E","",""
+"","2838","should enter not a number first and check error message","","Thu Jan 02 20:21:02 CET 2025","passed","Thu Jan 02 20:21:05 CET 2025","","Samsung Calculator features E2E","",""
+"","59951","should raise maximum number to a power of maximum number and check error message","","Thu Jan 02 20:21:05 CET 2025","passed","Thu Jan 02 20:22:05 CET 2025","","Samsung Calculator features E2E","",""
+"","28879","should enter a very long number and check error message","","Thu Jan 02 20:20:33 CET 2025","passed","Thu Jan 02 20:21:02 CET 2025","","Samsung Calculator features E2E","",""

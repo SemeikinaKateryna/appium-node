@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.EditText[@resource-id=\"com.sec.android.app.popupcalculator:id/calc_edt_formula\"]"
+}
