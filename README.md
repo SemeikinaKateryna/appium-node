@@ -40,7 +40,13 @@ Be sure that you have:
 npm run test:android
 ```
 
-
 ### Commands to generate Allure report
-- to generate Allure test result report use command `npm run allure:generate`
-- to see Allure test result report use command `npm run allure:serve`
+- to generate Allure test result report use command
+```sh
+pm run allure:generate
+```
+- to see Allure test result report use command
+```sh
+pm run allure:serve
+```
+![image](https://github.com/user-attachments/assets/a6716e89-6c4e-4a5c-a10e-d8d72cc85554)
